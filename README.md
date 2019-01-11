@@ -1,2 +1,2 @@
 # learngit
-Learn git 
+This repo for logs of learning progress with git
